@@ -13,7 +13,7 @@ class Game21Controller extends Controller
      *
      * @return \Illuminate\View\View
      */
-    public function show(Request $request)
+    public function show()
     {
         $game21Handler = new Game21Handler();
         $data = $game21Handler->playGame();
