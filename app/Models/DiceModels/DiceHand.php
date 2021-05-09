@@ -11,7 +11,7 @@ class DiceHand
 {
     private $dices;
     private $values;
-    private int $sum;
+    private $sum; // int
     private $graphicClasses;
 
     public function __construct()

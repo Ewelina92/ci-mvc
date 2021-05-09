@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1620564505">
-  <project timestamp="1620564505">
+<coverage generated="1620565144">
+  <project timestamp="1620565144">
     <file name="/Users/ewelina/dbwebb-kurser/mvc/me/ci/app/Console/Kernel.php">
       <class name="App\Console\Kernel" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="4" coveredstatements="3" elements="6" coveredelements="4"/>
@@ -199,7 +199,7 @@
       <line num="75" type="stmt" count="4"/>
       <line num="76" type="stmt" count="4"/>
       <line num="79" type="stmt" count="4"/>
-      <metrics loc="81" ncloc="77" classes="1" methods="7" coveredmethods="7" conditionals="0" coveredconditionals="0" statements="29" coveredstatements="29" elements="36" coveredelements="36"/>
+      <metrics loc="81" ncloc="76" classes="1" methods="7" coveredmethods="7" conditionals="0" coveredconditionals="0" statements="29" coveredstatements="29" elements="36" coveredelements="36"/>
     </file>
     <file name="/Users/ewelina/dbwebb-kurser/mvc/me/ci/app/Models/DiceModels/GraphicalDice.php">
       <class name="App\Models\DiceModels\GraphicalDice" namespace="global">
@@ -561,6 +561,6 @@
       <line num="62" type="stmt" count="32"/>
       <metrics loc="63" ncloc="38" classes="1" methods="2" coveredmethods="1" conditionals="0" coveredconditionals="0" statements="15" coveredstatements="14" elements="17" coveredelements="15"/>
     </file>
-    <metrics files="29" loc="1430" ncloc="1137" classes="22" methods="57" coveredmethods="39" conditionals="0" coveredconditionals="0" statements="329" coveredstatements="274" elements="386" coveredelements="313"/>
+    <metrics files="29" loc="1430" ncloc="1136" classes="22" methods="57" coveredmethods="39" conditionals="0" coveredconditionals="0" statements="329" coveredstatements="274" elements="386" coveredelements="313"/>
   </project>
 </coverage>
