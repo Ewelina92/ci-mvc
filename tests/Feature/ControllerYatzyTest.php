@@ -6,7 +6,6 @@ namespace Tests\Feature;
 
 use Tests\TestCase;
 use App\Http\Controllers\YatzyController;
-use Illuminate\Http\Request;
 
 /**
  * Test cases for the controller Yatzy.
@@ -29,8 +28,7 @@ class ControllerYatzyTest extends TestCase
     {
         $controller = new YatzyController();
 
-        $mockRequest = $this->createMock(Request::class);
-        $res = $controller->show($mockRequest);
+        $res = $controller->show();
         $this->assertEquals("yatzy-welcome", $res->name());
     }
 }

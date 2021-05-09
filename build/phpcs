@@ -1,28 +1,4 @@
 
-FILE: /Users/ewelina/dbwebb-kurser/mvc/me/ci/database/migrations/2014_10_12_100000_create_password_resets_table.php
--------------------------------------------------------------------------------------------------------------------
-FOUND 1 ERROR AFFECTING 1 LINE
--------------------------------------------------------------------------------------------------------------------
- 7 | ERROR | Each class must be in a namespace of at least one level (a top-level vendor name)
--------------------------------------------------------------------------------------------------------------------
-
-
-FILE: /Users/ewelina/dbwebb-kurser/mvc/me/ci/database/migrations/2014_10_12_000000_create_users_table.php
----------------------------------------------------------------------------------------------------------
-FOUND 1 ERROR AFFECTING 1 LINE
----------------------------------------------------------------------------------------------------------
- 7 | ERROR | Each class must be in a namespace of at least one level (a top-level vendor name)
----------------------------------------------------------------------------------------------------------
-
-
-FILE: /Users/ewelina/dbwebb-kurser/mvc/me/ci/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
----------------------------------------------------------------------------------------------------------------
-FOUND 1 ERROR AFFECTING 1 LINE
----------------------------------------------------------------------------------------------------------------
- 7 | ERROR | Each class must be in a namespace of at least one level (a top-level vendor name)
----------------------------------------------------------------------------------------------------------------
-
-
 FILE: /Users/ewelina/dbwebb-kurser/mvc/me/ci/server.php
 ----------------------------------------------------------------------
 FOUND 6 ERRORS AFFECTING 2 LINES
@@ -70,5 +46,5 @@ FOUND 2 ERRORS AFFECTING 1 LINE
 PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
 ----------------------------------------------------------------------
 
-Time: 1.7 secs; Memory: 10MB
+Time: 1.72 secs; Memory: 10MB
 

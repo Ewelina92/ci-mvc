@@ -6,7 +6,6 @@ namespace Tests\Feature;
 
 use Tests\TestCase;
 use App\Http\Controllers\Game21Controller;
-use Illuminate\Http\Request;
 
 /**
  * Test cases for the controller Game21.
@@ -29,8 +28,7 @@ class ControllerGame21Test extends TestCase
     {
         $controller = new Game21Controller();
 
-        $mockRequest = $this->createMock(Request::class);
-        $res = $controller->show($mockRequest);
+        $res = $controller->show();
         $this->assertEquals("game21", $res->name());
     }
 }
