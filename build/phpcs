@@ -1,0 +1,74 @@
+
+FILE: /Users/ewelina/dbwebb-kurser/mvc/me/ci/database/migrations/2014_10_12_100000_create_password_resets_table.php
+-------------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+-------------------------------------------------------------------------------------------------------------------
+ 7 | ERROR | Each class must be in a namespace of at least one level (a top-level vendor name)
+-------------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/ewelina/dbwebb-kurser/mvc/me/ci/database/migrations/2014_10_12_000000_create_users_table.php
+---------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+---------------------------------------------------------------------------------------------------------
+ 7 | ERROR | Each class must be in a namespace of at least one level (a top-level vendor name)
+---------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/ewelina/dbwebb-kurser/mvc/me/ci/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+---------------------------------------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+---------------------------------------------------------------------------------------------------------------
+ 7 | ERROR | Each class must be in a namespace of at least one level (a top-level vendor name)
+---------------------------------------------------------------------------------------------------------------
+
+
+FILE: /Users/ewelina/dbwebb-kurser/mvc/me/ci/server.php
+----------------------------------------------------------------------
+FOUND 6 ERRORS AFFECTING 2 LINES
+----------------------------------------------------------------------
+ 17 | ERROR | [x] Expected at least 1 space before "."; 0 found
+ 17 | ERROR | [x] Expected at least 1 space after "."; 0 found
+ 17 | ERROR | [x] Expected at least 1 space before "."; 0 found
+ 17 | ERROR | [x] Expected at least 1 space after "."; 0 found
+ 21 | ERROR | [x] Expected at least 1 space before "."; 0 found
+ 21 | ERROR | [x] Expected at least 1 space after "."; 0 found
+----------------------------------------------------------------------
+PHPCBF CAN FIX THE 6 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------
+
+
+FILE: /Users/ewelina/dbwebb-kurser/mvc/me/ci/config/database.php
+----------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 1 LINE
+----------------------------------------------------------------------
+ 126 | ERROR | [x] Expected at least 1 space before "."; 0 found
+ 126 | ERROR | [x] Expected at least 1 space after "."; 0 found
+----------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------
+
+
+FILE: /Users/ewelina/dbwebb-kurser/mvc/me/ci/config/session.php
+----------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 1 LINE
+----------------------------------------------------------------------
+ 131 | ERROR | [x] Expected at least 1 space before "."; 0 found
+ 131 | ERROR | [x] Expected at least 1 space after "."; 0 found
+----------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------
+
+
+FILE: /Users/ewelina/dbwebb-kurser/mvc/me/ci/config/filesystems.php
+----------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 1 LINE
+----------------------------------------------------------------------
+ 41 | ERROR | [x] Expected at least 1 space before "."; 0 found
+ 41 | ERROR | [x] Expected at least 1 space after "."; 0 found
+----------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------
+
+Time: 1.7 secs; Memory: 10MB
+
