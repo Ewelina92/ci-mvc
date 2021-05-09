@@ -4,7 +4,6 @@ namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use App\Models\Handlers\YatzyHandler;
-use Illuminate\Http\Request;
 
 class YatzyController extends Controller
 {

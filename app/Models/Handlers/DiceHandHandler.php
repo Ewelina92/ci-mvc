@@ -32,6 +32,9 @@ class DiceHandHandler //implements GameHandlerInterface
         ];
     }
 
+    /**
+     * @param integer $amount
+     */
     private function roll($amount)
     {
         // add dice to dicehand
