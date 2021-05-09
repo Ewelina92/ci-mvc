@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/Ewelina92/ci-mvc.svg?branch=master)](https://travis-ci.org/Ewelina92/ci-mvc)
+[![Build Status](https://travis-ci.org/Ewelina92/ci-mvc.svg?branch=main)](https://travis-ci.org/Ewelina92/ci-mvc)
 
-[![Build Status](https://scrutinizer-ci.com/g/Ewelina92/ci-mvc/badges/build.png?b=master)](https://scrutinizer-ci.com/g/Ewelina92/ci-mvc/build-status/master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Ewelina92/ci-mvc/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Ewelina92/ci-mvc/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/Ewelina92/ci-mvc/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Ewelina92/ci-mvc/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/Ewelina92/ci-mvc/badges/build.png?b=main)](https://scrutinizer-ci.com/g/Ewelina92/ci-mvc/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Ewelina92/ci-mvc/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/Ewelina92/ci-mvc/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/Ewelina92/ci-mvc/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/Ewelina92/ci-mvc/?branch=master)
 
 ## About Laravel
 
