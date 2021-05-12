@@ -11,7 +11,7 @@ class DiceController extends Controller
     /**
      * Display a dice.
      *
-     * @return \Illuminate\View\View
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
      */
     public function show(Request $request)
     {

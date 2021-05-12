@@ -11,7 +11,7 @@ class DiceHandController extends Controller
     /**
      * Show the dicehand.
      *
-     * @return \Illuminate\View\View
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
      */
     public function show(Request $request)
     {

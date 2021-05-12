@@ -10,7 +10,7 @@ class HelloWorldController extends Controller
      * Display a message.
      *
      * @param  string  $message
-     * @return \Illuminate\View\View
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
      */
     public function hello($message = null)
     {
