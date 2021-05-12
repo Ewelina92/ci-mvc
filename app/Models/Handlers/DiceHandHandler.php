@@ -12,8 +12,7 @@ use App\Models\DiceModels\DiceHand;
  */
 class DiceHandHandler //implements GameHandlerInterface
 {
-
-    private $dice;
+    private $diceHand;
 
     public function __construct(DiceHand $diceHand = null)
     {
